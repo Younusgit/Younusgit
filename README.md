@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+things+with+Python+%F0%9F%90%8D;Crafting+interfaces+with+JavaScript+%E2%9A%A1;Engineering+with+C%2B%2B+%F0%9F%94%A7;Automating+everything+I+can+%F0%9F%A4%96;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Python+Developer+%F0%9F%90%8D;JavaScript+%26+TypeScript+Engineer+%E2%9A%A1;C%2B%2B+Systems+Programmer+%F0%9F%94%A7;Building+Bots+%26+Automations+%F0%9F%A4%96;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,26 +12,36 @@
 
 ## About Me
 
-I'm a self-driven developer from Bangladesh who loves turning ideas into working software. I work across Python, JavaScript, C++, and more — building everything from automation scripts and bots to web applications and system-level tools.
+I'm a passionate developer from Bangladesh who loves transforming ideas into real, working software. I work across multiple languages and paradigms — from scripting and automation to full-stack web development and system programming.
 
-I enjoy digging into how things work under the hood, solving real problems with clean code, and constantly pushing my skills further.
+I enjoy understanding how things work at a deep level, writing clean and purposeful code, and constantly leveling up my craft.
 
 ```python
 class Developer:
 
-    def __init__(self):
-        self.name        = "Younus Ali"
-        self.location    = "Bangladesh 🇧🇩"
-        self.languages   = ["Python 🐍", "JavaScript ⚡", "C++ 🔧", "Bash 💻"]
-        self.interests   = ["Automation", "Bot Development", "Web Apps", "Open Source"]
-        self.goal        = "Write code that makes a real difference 🌍"
+    name        = "Younus Ali"
+    location    = "Bangladesh 🇧🇩"
 
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something great together 🚀")
+    languages   = {
+        "Python"        : "Automation, bots, scripting & backends",
+        "JavaScript"    : "Web apps, Node.js & interactive UIs",
+        "TypeScript"    : "Typed JS for scalable applications",
+        "C++"           : "System programming & performance-critical tools",
+        "Others"        : "Bash, HTML/CSS, SQL & more",
+    }
+
+    interests   = ["Automation", "Bot Development", "Web Development", "Open Source"]
+    currently   = "Exploring new tech & building things that actually matter 🌍"
+
+    @staticmethod
+    def say_hi():
+        print("Thanks for visiting! Let's build something great together 🚀")
 
 
 me = Developer()
 me.say_hi()
+
+# Output → "Thanks for visiting! Let's build something great together 🚀"
 ```
 
 ---
@@ -44,6 +54,7 @@ me.say_hi()
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
