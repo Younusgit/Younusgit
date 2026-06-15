@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+things+with+Python+%F0%9F%90%8D;Crafting+interfaces+with+JavaScript+%E2%9A%A1;Automating+everything+I+can+%F0%9F%A4%96;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+things+with+Python+%F0%9F%90%8D;Crafting+interfaces+with+JavaScript+%E2%9A%A1;Engineering+with+C%2B%2B+%F0%9F%94%A7;Automating+everything+I+can+%F0%9F%A4%96;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,19 +12,26 @@
 
 ## About Me
 
-I'm a self-driven developer from Bangladesh who loves turning ideas into working software. My main tools are Python and JavaScript — I use them to build automation scripts, bots, web apps, and whatever else I'm curious about at the moment.
+I'm a self-driven developer from Bangladesh who loves turning ideas into working software. I work across Python, JavaScript, C++, and more — building everything from automation scripts and bots to web applications and system-level tools.
 
-I work on Android using **Termux**, which means I code anywhere, anytime. I enjoy digging into how things work under the hood — from decoding obfuscated scripts to building Telegram bots from scratch.
+I enjoy digging into how things work under the hood, solving real problems with clean code, and constantly pushing my skills further.
 
 ```python
-younus = {
-    "name"       : "Younus Ali",
-    "location"   : "Bangladesh 🇧🇩",
-    "languages"  : ["Python", "JavaScript", "Bash"],
-    "tools"      : ["Termux", "Git", "VS Code", "Linux"],
-    "interests"  : ["Automation", "Bots", "Web Dev", "Open Source"],
-    "currently"  : "Building cool stuff and learning every day 🚀"
-}
+class Developer:
+
+    def __init__(self):
+        self.name        = "Younus Ali"
+        self.location    = "Bangladesh 🇧🇩"
+        self.languages   = ["Python 🐍", "JavaScript ⚡", "C++ 🔧", "Bash 💻"]
+        self.interests   = ["Automation", "Bot Development", "Web Apps", "Open Source"]
+        self.goal        = "Write code that makes a real difference 🌍"
+
+    def say_hi(self):
+        print("Thanks for visiting my profile! Let's build something great together 🚀")
+
+
+me = Developer()
+me.say_hi()
 ```
 
 ---
@@ -37,6 +44,7 @@ younus = {
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **Web**
@@ -50,7 +58,6 @@ younus = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Android](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=android&logoColor=3DDC84)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
